@@ -1,5 +1,7 @@
 ### สวัสดีผมชื่อจูเนียร์ ชอบกินปลาแซลมอน 👋
 
+![แซลมอน](https://i.imgur.com/rlolncN.jpg)
+
 <!--
 **jungai/jungai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
