@@ -4,7 +4,7 @@
 
   <h4>• <a href="https://www.jungai.me">blog</a></h4>
   <p>
-    <img width="460" height="300" src="https://media.giphy.com/media/RfAn1YnISmJW04TBV9/giphy.gif">
+    <img width="460" height="300" src="https://media.giphy.com/media/l2YWwfj7ACJkdHJxm/giphy.gif">
   </p>
 
 </div>
