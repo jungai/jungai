@@ -19,4 +19,4 @@
 - [ ] [in deep with react-query](https://github.com/jungai/in-deep-with-react-query)
 - [ ] [state management in react](https://github.com/jungai/state-management-in-react)
 - [ ] Nuxt3(if beta version release)
-- [ ] make my own micro-frontend
+- [ ] r&d about gql(graphql)
