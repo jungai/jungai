@@ -5,8 +5,8 @@
 
   <h4>• <a href="https://www.jungai.me">blog</a></h4>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jungai&repo=dotfiles)](https://github.com/jungai/dotfiles)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <p>
     <img width="460" height="300" src="https://media.giphy.com/media/l2YWwfj7ACJkdHJxm/giphy.gif">
   </p>
