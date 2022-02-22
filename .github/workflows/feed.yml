@@ -1,0 +1,23 @@
+name: 'feed ci'
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron: "0 23 * * *"
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://www.jungai.me/rss/feed.xml'
+          file: 'README.md'
+          timezone: 'Asia/Bangkok'
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
