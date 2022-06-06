@@ -1,10 +1,10 @@
 ### Latest Posts
 <!-- feed start -->
-- Feb 22 - [สิ่งที่อยากจะเห็นในปี 2022](https://jungai.me/blogs/want-to-see-in-2022)
-- Dec 31 - [สรุปปี 2021 ที่ผ่านมา](https://jungai.me/blogs/summary-2021)
-- Aug 06 - [My vim journey](https://jungai.me/blogs/my-vim-journey)
-- Jun 03 - [ประสบการณ์กับจอ 144hz](https://jungai.me/blogs/144hz-monitor)
-- May 31 - [render element n element ใน react](https://jungai.me/blogs/how-to-render-element-n-element)
+- Feb 22 - [สิ่งที่อยากจะเห็นในปี 2022](https://juver.xyz/blogs/want-to-see-in-2022)
+- Dec 31 - [สรุปปี 2021 ที่ผ่านมา](https://juver.xyz/blogs/summary-2021)
+- Aug 06 - [My vim journey](https://juver.xyz/blogs/my-vim-journey)
+- Jun 03 - [ประสบการณ์กับจอ 144hz](https://juver.xyz/blogs/144hz-monitor)
+- May 31 - [render element n element ใน react](https://juver.xyz/blogs/how-to-render-element-n-element)
 <!-- feed end -->
 
 <hr></hr>
