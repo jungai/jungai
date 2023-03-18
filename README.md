@@ -3,5 +3,5 @@
   <img 
        width="300"
        height="300"    
-       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkOTAxNzk2OGMyNDFhNzc1NjYyZTU2MDMyYWI1N2UxNDYwNzcyZSZjdD1n/ygBatFgKqkKyvS4D4k/giphy.gif">
+       src="https://user-images.githubusercontent.com/32437056/226093158-6ccd5146-a4bc-450c-8346-846f1b5183d2.gif">
 </div>
